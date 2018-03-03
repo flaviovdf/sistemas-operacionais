@@ -13,12 +13,6 @@ Sala: 2009 (Icex)
 
 * **INF00**: As aulas iniciam no dia 05/03 na Sala 2009.
 
-## TPs
-
-  1. [TP1](./tp1)
-  2. [TP2](./tp2)
-  3. [TP3](./tp3)
-
 ## Calendário
 
 | Aula | Data     |  Processos                | Informações                 |
@@ -98,6 +92,13 @@ Sala: 2009 (Icex)
      Versão mais nova <br>
       **Inglês com uma tradução incompleta em Português. Aberto!**
 
+## TPs
+
+  1. [TP1](./tp1)
+  2. [TP2](./tp2)
+  3. [TP3](./tp3)
+  
+[Informes]: #informes
 [Calendário]: #calendário
 [Listas]: ./listas
 [TPs]: #tps
