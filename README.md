@@ -1,5 +1,5 @@
-| [Slides] | [Informes] | [Calendário] | [Exemplos] | [TPs] | [Listas] |
-|----------|------------|--------------|------------|-------|----------|
+| [Slides] | [Informes] | [Calendário] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
+|----------|------------|--------------|------------|-------|----------|----------------|
 
 # DCC065 - Sistemas Operacionais: 2018.1
 
@@ -19,46 +19,7 @@ Sala: 2009 (Icex)
   2. [TP2](./tp2)
   3. [TP3](./tp3)
 
-## Listas
-
-  1. [Lista]
-  1. [ProblemasRecomendados]
-
-## Bibliografia
-
-  1. [Operating Systems: Three Easy Pieces - OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/) <br>
-     Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau <br>
-     Version 0.91 -- ou mais recente se houver <br>
-     **Apenas em inglês. Aberto!**
-
-  1. Operating System Concepts (Fundamentos de Sistemas Operacionais) <br>
-     Abraham Silberschatz, Peter B. Galvin and  Greg Gagne <br>
-     9th Edition. Versões antigas também são boas para a disciplina <br>
-     **Inglês e Português**
-
-  1. Modern Operating Systems (Sistemas Operacionais Modernos) <br>
-     Andrew S. Tanenbaum and Herbert Bos <br>
-     4th Edition. Versões antigas também são boas para a disciplina <br>
-     **Inglês e Português**
-
-## Caso de Estudo
-
-  1. [xv6 - Código](https://github.com/mit-pdos/xv6-public)
-  1. [xv6 - a simple, Unix-like teaching operating system (livro)](https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev10.pdf) <br>
-     Russ Cox, Frank Kaashoek and Robert Morris <br>
-     Revision 9 -- ou mais recente se houver <br>
-      **Apenas em inglês. Aberto!**
-  1. [Linux Kernel - Código](https://github.com/torvalds/linux)
-  1. [Linux Insides - gitbook](https://www.gitbook.com/book/0xax/linux-insides/details) <br>
-     [@OxAX](https://twitter.com/0xAX) <br>
-     Versão mais nova <br>
-      **Inglês com uma tradução incompleta em Português. Aberto!**
-
-## Aulas
-
-Slides disponíveis [Google Drive](https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs).
-
-**Plano de aulas inicial**
+## Calendário
 
 | Aula | Data     |  Processos                | Informações                 |
 |------|----------|---------------------------|-----------------------------|
@@ -105,7 +66,40 @@ Slides disponíveis [Google Drive](https://drive.google.com/drive/folders/0B0ryA
 | 29   | 21       | *Seminários*              |                             |
 | 30   | 28       | *Exame Especial*          |                             |
 
-[ProblemasRecomendados]: https://github.com/flaviovdf/dcc065/blob/master/listas/ProblemasRecomendados.md
-[Listas]: https://github.com/flaviovdf/dcc065/blob/master/listas/Lista.md
+## Bibliografia
+
+### Livros
+
+  1. [Operating Systems: Three Easy Pieces - OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/) <br>
+     Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau <br>
+     Version 0.91 -- ou mais recente se houver <br>
+     **Apenas em inglês. Aberto!**
+
+  1. Operating System Concepts (Fundamentos de Sistemas Operacionais) <br>
+     Abraham Silberschatz, Peter B. Galvin and  Greg Gagne <br>
+     9th Edition. Versões antigas também são boas para a disciplina <br>
+     **Inglês e Português**
+
+  1. Modern Operating Systems (Sistemas Operacionais Modernos) <br>
+     Andrew S. Tanenbaum and Herbert Bos <br>
+     4th Edition. Versões antigas também são boas para a disciplina <br>
+     **Inglês e Português**
+
+### Caso de Estudo
+
+  1. [xv6 - Código](https://github.com/mit-pdos/xv6-public)
+  1. [xv6 - a simple, Unix-like teaching operating system (livro)](https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev10.pdf) <br>
+     Russ Cox, Frank Kaashoek and Robert Morris <br>
+     Revision 9 -- ou mais recente se houver <br>
+      **Apenas em inglês. Aberto!**
+  1. [Linux Kernel - Código](https://github.com/torvalds/linux)
+  1. [Linux Insides - gitbook](https://www.gitbook.com/book/0xax/linux-insides/details) <br>
+     [@OxAX](https://twitter.com/0xAX) <br>
+     Versão mais nova <br>
+      **Inglês com uma tradução incompleta em Português. Aberto!**
+
+[Calendário]: #calendário
+[Listas]: ./listas
 [TPs]: #tps
 [Slides]: https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
+[Exemplos]: ./exemplos
