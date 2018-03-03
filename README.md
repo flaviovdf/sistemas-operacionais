@@ -9,6 +9,10 @@ Aulas: Terças e Quintas 17:00-18:40
 
 Sala: 2009 (Icex)
 
+## Informes
+
+* **INF00**: As aulas iniciam no dia 05/03 na Sala 2009.
+
 ## TPs
 
   1. [TP1](./tp1)
@@ -19,10 +23,6 @@ Sala: 2009 (Icex)
 
   1. [Lista]
   1. [ProblemasRecomendados]
-
-## Seminários
-
-  1. [Seminários](./seminario)
 
 ## Bibliografia
 
@@ -108,3 +108,4 @@ Slides disponíveis [Google Drive](https://drive.google.com/drive/folders/0B0ryA
 [ProblemasRecomendados]: https://github.com/flaviovdf/dcc065/blob/master/listas/ProblemasRecomendados.md
 [Listas]: https://github.com/flaviovdf/dcc065/blob/master/listas/Lista.md
 [TPs]: #tps
+[Slides]: https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
