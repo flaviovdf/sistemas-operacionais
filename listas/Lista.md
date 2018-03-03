@@ -336,7 +336,7 @@
    diretórios para ter um melhor desempenho? Como lidar com arquivos
    grandes.
 
-1. [Silberschatz 12.13 - Inspirada] Similar à memória principal,
+1. [Silberschatz 12.13 - Inspirada] Similar a memória principal,
    sistemas de arquivos tem que escolher um tamanho de bloco. Quais
    são as vantagens e desvantagens de um tamanho de bloco maior ou
    menor. Existem vantagens e ter 2 tamanhos para um mesmo sistema
