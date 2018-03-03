@@ -104,3 +104,4 @@ Sala: 2009 (Icex)
 [TPs]: #tps
 [Slides]: https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 [Exemplos]: ./exemplos
+[Bibliografia]: #bibliografia
