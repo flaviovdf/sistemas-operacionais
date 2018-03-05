@@ -17,45 +17,47 @@ Sala: 2009 (Icex)
 
 | Aula | Data     |  Processos                | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 1    | 05 Mar   | Introdução                |                             |
-| 2    | 07       | Processos e Threads       | Liberação TP1               |
-| 3    | 12       | Escalonamento             |                             |
-| 4    | 14       | Sincronização             |                             |
+| 1    | 05 Mar   | Apresentação              |                             |
+| 2    | 07       | Interrupçes e Estruturas  |                             |
+| 3    | 12       | Processos e Threads       | Liberação TP1               |
+| 4    | 14       | Escalonamento             |                             |
 | 5    | 19       | Sincronização             |                             |
-| 6    | 21       | Problemas Sincronização   |                             |
-| 7    | 26       | Deadlocks                 |                             |
-| 8    | 28       | *Prova 1*                 | TP1 no Domingo pós prova    |
+| 6    | 21       | Sincronização             |                             |
+| 7    | 26       | Problemas Sincronização   |                             |
+| 8    | 28       | Deadlocks                 |                             |
+| 9    | 02 Abr   | *Prova 1*                 | TP1 no Domingo pós prova    |
 
 | Aula | Data     |  Memória                  | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 9    | 02 Abr   | Compilação e Linkagem     | TP2                         |
-| 10   | 04       | Gerência de Memória       |                             |
-| 11   | 09       | Paginação                 |                             |
-| 12   | 11       | Memória Virtual           |                             |
+| 10   | 04 Abr   | Compilação e Linkagem     | TP2                         |
+| 11   | 09       | Gerência de Memória       |                             |
+| 12   | 11       | Paginação                 |                             |
 | 13   | 16       | Memória Virtual           |                             |
-| 14   | 18       | Espaço Livre e Malloc     |                             |
-| 15   | 23       | xv6 Boot                  |                             |
-| 16   | 25       | *Prova 2*                 | TP2 no Domingo pós prova    |
+|      | 18       |                           | *Atividades Complementares* |
+| 14   | 23       | Memória Virtual           |                             |
+| 15   | 25       | Espaço Livre e Malloc     |                             |
+| 16   | 30       | xv6 Boot                  |                             |
+| 17   | 07 Maio  | *Prova 2*                 | TP2 no Domingo pós prova    |
 
 | Aula | Data     |  Arquivos / E/S           | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 17   | 30       | E/S Dispositivos          | TP3                         |
-| 18   | 07 Maio  | Arquivos                  |                             |
-|      | 09       |                           | *Feriado*                   |
-| 19   | 14       | Implementando um VFS      |                             |
-| 20   | 16       | Logs/Journal              |                             |
-| 21   | 21       | Proteção+Segurança        |                             |
-| 22   | 23       | *Prova 3*                 | TP3 no Domingo pós prova    |
-| 23   | 28       | *Reposição*               | Alocação Seminários         |
+| 17   | 09 Maio  | E/S Dispositivos          | TP3                         |
+| 18   | 07       | Arquivos                  |                             |
+|      | 14       |                           | *Atividades Complementares* |
+| 19   | 16       | Implementando um VFS      |                             |
+| 20   | 21       | Logs/Journal              |                             |
+| 21   | 23       | Proteção+Segurança        |                             |
+| 22   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
+|      | 04 Jun   |                           | *Feriado*                   |
+| 23   | 06       | *Reposição*               | Alocação Seminários         |
 
 | Aula | Data     |  Seminários               | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-|      | 04 Jun   |                           | *Feriado*                   |
-| 24   | 06       | Virtualização             |                             |
-| 25   | 11       | Sistemas Distribuídos     |                             |
-| 27   | 13       | *Seminários*              |                             |
-| 28   | 18       | *Seminários*              |                             |
-| 29   | 20       | *Seminários*              |                             |
+| 24   | 11       | Virtualização             |                             |
+| 25   | 13       | Sistemas Distribuídos     |                             |
+| 27   | 18       | *Seminários*              |                             |
+| 28   | 20       | *Seminários*              |                             |
+| 29   | 25       | *Seminários*              |                             |
 | 30   | 27       | *Exame Especial*          |                             |
 
 ## Bibliografia
