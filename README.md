@@ -41,20 +41,20 @@ Sala: 2009 (Icex)
 
 | Aula | Data     |  Arquivos / E/S           | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 17   | 09 Maio  | E/S Dispositivos          | TP3                         |
-| 18   | 07       | Arquivos                  |                             |
+| 18   | 09 Maio  | E/S Dispositivos          | TP3                         |
+| 19   | 07       | Arquivos                  |                             |
 |      | 14       |                           | *Atividades Complementares* |
-| 19   | 16       | Implementando um VFS      |                             |
-| 20   | 21       | Logs/Journal              |                             |
-| 21   | 23       | Proteção+Segurança        |                             |
-| 22   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
+| 20   | 16       | Implementando um VFS      |                             |
+| 21   | 21       | Logs/Journal              |                             |
+| 22   | 23       | Proteção+Segurança        |                             |
+| 23   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
 |      | 04 Jun   |                           | *Feriado*                   |
-| 23   | 06       | *Reposição*               | Alocação Seminários         |
+| 24   | 06       | *Reposição*               | Alocação Seminários         |
 
 | Aula | Data     |  Seminários               | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 24   | 11       | Virtualização             |                             |
-| 25   | 13       | Sistemas Distribuídos     |                             |
+| 25   | 11       | Virtualização             |                             |
+| 26   | 13       | Sistemas Distribuídos     |                             |
 | 27   | 18       | *Seminários*              |                             |
 | 28   | 20       | *Seminários*              |                             |
 | 29   | 25       | *Seminários*              |                             |
