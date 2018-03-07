@@ -7,11 +7,11 @@ Professor: Flavio Figueiredo
 
 Aulas: Terças e Quintas 17:00-18:40
 
-Sala: 2009 (Icex)
+Sala: ~~2009~~ 2008 (Icex)
 
 ## Informes
 
-* **INF00**: As aulas iniciam no dia 05/03 na Sala 2009.
+* **INF00**: As aulas iniciam no dia 05/03 na Sala 2008.
 
 ## Calendário
 
