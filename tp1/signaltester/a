@@ -1,0 +1,640 @@
+UID        PID  PPID   LWP  C NLWP STIME TTY          TIME CMD
+root         1     0     1  0    1 Mar13 ?        00:00:10 /sbin/init splash
+root         2     0     2  0    1 Mar13 ?        00:00:00 [kthreadd]
+root         3     2     3  0    1 Mar13 ?        00:00:00 [ksoftirqd/0]
+root         5     2     5  0    1 Mar13 ?        00:00:00 [kworker/0:0H]
+root         7     2     7  0    1 Mar13 ?        00:01:14 [rcu_sched]
+root         8     2     8  0    1 Mar13 ?        00:00:00 [rcu_bh]
+root         9     2     9  0    1 Mar13 ?        00:00:00 [migration/0]
+root        10     2    10  0    1 Mar13 ?        00:00:00 [watchdog/0]
+root        11     2    11  0    1 Mar13 ?        00:00:00 [watchdog/1]
+root        12     2    12  0    1 Mar13 ?        00:00:00 [migration/1]
+root        13     2    13  0    1 Mar13 ?        00:00:00 [ksoftirqd/1]
+root        15     2    15  0    1 Mar13 ?        00:00:00 [kworker/1:0H]
+root        16     2    16  0    1 Mar13 ?        00:00:00 [watchdog/2]
+root        17     2    17  0    1 Mar13 ?        00:00:00 [migration/2]
+root        18     2    18  0    1 Mar13 ?        00:00:01 [ksoftirqd/2]
+root        20     2    20  0    1 Mar13 ?        00:00:00 [kworker/2:0H]
+root        21     2    21  0    1 Mar13 ?        00:00:00 [watchdog/3]
+root        22     2    22  0    1 Mar13 ?        00:00:00 [migration/3]
+root        23     2    23  0    1 Mar13 ?        00:00:00 [ksoftirqd/3]
+root        25     2    25  0    1 Mar13 ?        00:00:00 [kworker/3:0H]
+root        26     2    26  0    1 Mar13 ?        00:00:00 [kdevtmpfs]
+root        27     2    27  0    1 Mar13 ?        00:00:00 [netns]
+root        28     2    28  0    1 Mar13 ?        00:00:00 [perf]
+root        29     2    29  0    1 Mar13 ?        00:00:00 [khungtaskd]
+root        30     2    30  0    1 Mar13 ?        00:00:00 [writeback]
+root        31     2    31  0    1 Mar13 ?        00:00:00 [ksmd]
+root        32     2    32  0    1 Mar13 ?        00:00:17 [khugepaged]
+root        33     2    33  0    1 Mar13 ?        00:00:00 [crypto]
+root        34     2    34  0    1 Mar13 ?        00:00:00 [kintegrityd]
+root        35     2    35  0    1 Mar13 ?        00:00:00 [bioset]
+root        36     2    36  0    1 Mar13 ?        00:00:00 [kblockd]
+root        37     2    37  0    1 Mar13 ?        00:00:00 [ata_sff]
+root        38     2    38  0    1 Mar13 ?        00:00:00 [md]
+root        39     2    39  0    1 Mar13 ?        00:00:00 [devfreq_wq]
+root        43     2    43  0    1 Mar13 ?        00:00:00 [kswapd0]
+root        44     2    44  0    1 Mar13 ?        00:00:00 [vmstat]
+root        45     2    45  0    1 Mar13 ?        00:00:00 [fsnotify_mark]
+root        46     2    46  0    1 Mar13 ?        00:00:00 [ecryptfs-kthrea]
+root        62     2    62  0    1 Mar13 ?        00:00:00 [kthrotld]
+root        63     2    63  0    1 Mar13 ?        00:00:00 [acpi_thermal_pm]
+root        64     2    64  0    1 Mar13 ?        00:00:00 [bioset]
+root        65     2    65  0    1 Mar13 ?        00:00:00 [bioset]
+root        67     2    67  0    1 Mar13 ?        00:00:00 [bioset]
+root        68     2    68  0    1 Mar13 ?        00:00:00 [bioset]
+root        69     2    69  0    1 Mar13 ?        00:00:00 [bioset]
+root        70     2    70  0    1 Mar13 ?        00:00:00 [bioset]
+root        71     2    71  0    1 Mar13 ?        00:00:00 [bioset]
+root        72     2    72  0    1 Mar13 ?        00:00:00 [bioset]
+root        73     2    73  0    1 Mar13 ?        00:00:00 [bioset]
+root        74     2    74  0    1 Mar13 ?        00:00:00 [bioset]
+root        75     2    75  0    1 Mar13 ?        00:00:00 [bioset]
+root        76     2    76  0    1 Mar13 ?        00:00:00 [bioset]
+root        77     2    77  0    1 Mar13 ?        00:00:00 [bioset]
+root        78     2    78  0    1 Mar13 ?        00:00:00 [bioset]
+root        79     2    79  0    1 Mar13 ?        00:00:00 [bioset]
+root        80     2    80  0    1 Mar13 ?        00:00:00 [bioset]
+root        81     2    81  0    1 Mar13 ?        00:00:00 [bioset]
+root        82     2    82  0    1 Mar13 ?        00:00:00 [bioset]
+root        83     2    83  0    1 Mar13 ?        00:00:00 [bioset]
+root        84     2    84  0    1 Mar13 ?        00:00:00 [bioset]
+root        85     2    85  0    1 Mar13 ?        00:00:00 [bioset]
+root        86     2    86  0    1 Mar13 ?        00:00:00 [bioset]
+root        87     2    87  0    1 Mar13 ?        00:00:00 [bioset]
+root        88     2    88  0    1 Mar13 ?        00:00:00 [bioset]
+root        93     2    93  0    1 Mar13 ?        00:00:00 [ipv6_addrconf]
+root       106     2   106  0    1 Mar13 ?        00:00:00 [deferwq]
+root       107     2   107  0    1 Mar13 ?        00:00:00 [charger_manager]
+root       153     2   153  0    1 Mar13 ?        00:00:00 [kpsmoused]
+root       154     2   154  0    1 Mar13 ?        00:00:00 [scsi_eh_0]
+root       155     2   155  0    1 Mar13 ?        00:00:00 [scsi_tmf_0]
+root       156     2   156  0    1 Mar13 ?        00:00:00 [scsi_eh_1]
+root       157     2   157  0    1 Mar13 ?        00:00:00 [scsi_tmf_1]
+root       158     2   158  0    1 Mar13 ?        00:00:00 [scsi_eh_2]
+root       159     2   159  0    1 Mar13 ?        00:00:00 [scsi_tmf_2]
+root       160     2   160  0    1 Mar13 ?        00:00:00 [scsi_eh_3]
+root       161     2   161  0    1 Mar13 ?        00:00:00 [scsi_tmf_3]
+root       169     2   169  0    1 Mar13 ?        00:00:00 [bioset]
+root       172     2   172  0    1 Mar13 ?        00:00:04 [kworker/2:1H]
+root       173     2   173  0    1 Mar13 ?        00:00:00 [kworker/3:1H]
+root       174     2   174  0    1 Mar13 ?        00:00:00 [kworker/1:1H]
+root       254     2   254  0    1 Mar13 ?        00:00:00 [kworker/0:1H]
+root       256     2   256  0    1 Mar13 ?        00:00:06 [jbd2/sda1-8]
+root       257     2   257  0    1 Mar13 ?        00:00:00 [ext4-rsv-conver]
+root       291     2   291  0    1 Mar13 ?        00:00:00 [kauditd]
+root       298     1   298  0    1 Mar13 ?        00:00:05 /lib/systemd/systemd-journald
+root       345     1   345  0    1 Mar13 ?        00:00:01 /lib/systemd/systemd-udevd
+flaviov+   410  1769   410  0    1 12:58 pts/4    00:00:00 /bin/bash
+root       455     2   455  0    1 Mar13 ?        00:00:00 [irq/126-mei_me]
+systemd+   461     1   461  0    2 Mar13 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+   461     1   470  0    2 Mar13 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root       609     2   609  0    1 Mar13 ?        00:00:00 [kvm-irqfd-clean]
+root       900     2   900  0    1 Mar13 ?        00:00:00 [kdmflush]
+root       940     2   940  0    1 Mar13 ?        00:00:00 [bioset]
+root       941     2   941  0    1 Mar13 ?        00:00:00 [kcryptd_io]
+root       942     2   942  0    1 Mar13 ?        00:00:00 [kcryptd]
+root       943     2   943  0    1 Mar13 ?        00:00:00 [dmcrypt_write]
+root       944     2   944  0    1 Mar13 ?        00:00:00 [bioset]
+root       963     1   963  0    1 Mar13 ?        00:00:00 /lib/systemd/systemd-logind
+root       979     1   979  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1011  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1012  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1013  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1014  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1115  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1116  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1117  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       979     1  1118  0    9 Mar13 ?        00:00:00 /usr/lib/snapd/snapd
+root       982     1   982  0    2 Mar13 ?        00:00:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       982     1  1098  0    2 Mar13 ?        00:00:14 /usr/sbin/thermald --no-daemon --dbus-enable
+avahi      987     1   987  0    1 Mar13 ?        00:01:55 avahi-daemon: running [greencow.local]
+message+   995     1   995  0    1 Mar13 ?        00:00:10 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi     1007   987  1007  0    1 Mar13 ?        00:00:00 avahi-daemon: chroot helper
+whoopsie  1017     1  1017  0    4 Mar13 ?        00:00:00 /usr/bin/whoopsie -f
+whoopsie  1017     1  1127  0    4 Mar13 ?        00:00:00 /usr/bin/whoopsie -f
+whoopsie  1017     1  1128  0    4 Mar13 ?        00:00:00 /usr/bin/whoopsie -f
+whoopsie  1017     1  5247  0    4 17:47 ?        00:00:00 /usr/bin/whoopsie -f
+root      1018     1  1018  0    3 Mar13 ?        00:00:34 /usr/sbin/NetworkManager --no-daemon
+root      1018     1  1126  0    3 Mar13 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root      1018     1  1138  0    3 Mar13 ?        00:00:02 /usr/sbin/NetworkManager --no-daemon
+root      1021     1  1021  0    1 Mar13 ?        00:00:00 /usr/sbin/cron -f
+syslog    1022     1  1022  0    4 Mar13 ?        00:00:00 /usr/sbin/rsyslogd -n
+syslog    1022     1  1067  0    4 Mar13 ?        00:00:00 /usr/sbin/rsyslogd -n
+syslog    1022     1  1068  0    4 Mar13 ?        00:00:00 /usr/sbin/rsyslogd -n
+syslog    1022     1  1069  0    4 Mar13 ?        00:00:00 /usr/sbin/rsyslogd -n
+root      1025     1  1025  0    1 Mar13 ?        00:00:45 /usr/sbin/acpid
+root      1034     1  1034  0    3 Mar13 ?        00:00:00 /usr/sbin/ModemManager
+root      1034     1  1097  0    3 Mar13 ?        00:00:00 /usr/sbin/ModemManager
+root      1034     1  1107  0    3 Mar13 ?        00:00:00 /usr/sbin/ModemManager
+root      1038     1  1038  0    3 Mar13 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root      1038     1  1099  0    3 Mar13 ?        00:00:03 /usr/lib/accountsservice/accounts-daemon
+root      1038     1  1106  0    3 Mar13 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root      1065     1  1065  0    1 Mar13 ?        00:00:00 /usr/bin/sddm
+root      1096     1  1096  0    1 Mar13 ?        00:00:08 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+colord    1104     1  1104  0    3 Mar13 ?        00:00:00 /usr/lib/colord/colord
+colord    1104     1  1139  0    3 Mar13 ?        00:00:00 /usr/lib/colord/colord
+colord    1104     1  1141  0    3 Mar13 ?        00:00:00 /usr/lib/colord/colord
+root      1111     1  1111  0    3 Mar13 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1111     1  1119  0    3 Mar13 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1111     1  1121  0    3 Mar13 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1129     2  1129  0    1 Mar13 ?        00:00:00 [iprt-VBoxWQueue]
+root      1133     2  1133  0    1 Mar13 ?        00:00:00 [iprt-VBoxTscThr]
+root      1144  1065  1144  0    2 Mar13 tty7     00:28:38 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{de683ba1-a01a-47a6-8682-c02e08403a97} -background none -noreset -displayfd 17 vt7
+root      1144  1065  1203  0    2 Mar13 tty7     00:00:01 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{de683ba1-a01a-47a6-8682-c02e08403a97} -background none -noreset -displayfd 17 vt7
+root      1147     1  1147  0    1 Mar13 ?        00:00:00 /usr/sbin/sshd -D
+mysql     1157     1  1157  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1211  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1218  0   28 Mar13 ?        00:00:09 /usr/sbin/mysqld
+mysql     1157     1  1219  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1220  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1221  0   28 Mar13 ?        00:00:09 /usr/sbin/mysqld
+mysql     1157     1  1222  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1223  0   28 Mar13 ?        00:00:09 /usr/sbin/mysqld
+mysql     1157     1  1224  0   28 Mar13 ?        00:00:09 /usr/sbin/mysqld
+mysql     1157     1  1225  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1226  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1227  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1228  0   28 Mar13 ?        00:00:06 /usr/sbin/mysqld
+mysql     1157     1  1242  0   28 Mar13 ?        00:00:05 /usr/sbin/mysqld
+mysql     1157     1  1243  0   28 Mar13 ?        00:00:10 /usr/sbin/mysqld
+mysql     1157     1  1244  0   28 Mar13 ?        00:00:01 /usr/sbin/mysqld
+mysql     1157     1  1245  0   28 Mar13 ?        00:00:09 /usr/sbin/mysqld
+mysql     1157     1  1246  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1247  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1248  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1249  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1250  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1251  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1252  0   28 Mar13 ?        00:00:01 /usr/sbin/mysqld
+mysql     1157     1  1253  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1257  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1259  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+mysql     1157     1  1260  0   28 Mar13 ?        00:00:00 /usr/sbin/mysqld
+sddm      1232     1  1232  0    1 Mar13 ?        00:00:00 /lib/systemd/systemd --user
+sddm      1235  1232  1235  0    1 Mar13 ?        00:00:00 (sd-pam)
+root      1278     1  1278  0    1 Mar13 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+root      1281     1  1281  0    3 Mar13 ?        00:00:00 /opt/cisco/anyconnect/bin/vpnagentd
+root      1281     1  1287  0    3 Mar13 ?        00:00:01 /opt/cisco/anyconnect/bin/vpnagentd
+root      1281     1  1318  0    3 Mar13 ?        00:00:00 /opt/cisco/anyconnect/bin/vpnagentd
+root      1317  1018  1317  0    1 Mar13 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-enp2s0.pid -lf /var/lib/NetworkManager/dhclient-fea4dc0b-d4fd-3010-8b58-895f1b04b07d-enp2s0.lease -cf /var/lib/NetworkManager/dhclient-enp2s0.conf enp2s0
+nobody    1328  1018  1328  0    1 Mar13 ?        00:00:04 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+sddm      1366     1  1366  0    1 Mar13 ?        00:00:00 dbus-launch --autolaunch c1280aa30ffd4da2a5774d5259abf51e --binary-syntax --close-stderr
+sddm      1370     1  1370  0    1 Mar13 ?        00:00:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root      1483     1  1483  0    5 Mar13 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+root      1483     1  1500  0    5 Mar13 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+root      1483     1  1502  0    5 Mar13 ?        00:00:01 /usr/lib/udisks2/udisksd --no-debug
+root      1483     1  1503  0    5 Mar13 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+root      1483     1  1504  0    5 Mar13 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+root      1505     1  1505  0    3 Mar13 ?        00:00:00 /usr/lib/upower/upowerd
+root      1505     1  1507  0    3 Mar13 ?        00:00:00 /usr/lib/upower/upowerd
+root      1505     1  1508  0    3 Mar13 ?        00:00:00 /usr/lib/upower/upowerd
+root      1536  1065  1536  0    1 Mar13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-authe8b95ab4-4c88-4759-b065-d72fcb6560cd --id 1 --start /usr/bin/startkde --user flaviovdf
+flaviov+  1539     1  1539  0    1 Mar13 ?        00:00:00 /lib/systemd/systemd --user
+flaviov+  1549  1539  1549  0    1 Mar13 ?        00:00:00 (sd-pam)
+flaviov+  1564     1  1564  0    1 Mar13 ?        00:00:01 /usr/bin/kwalletd --pam-login 15 18 --nofork
+flaviov+  1566     1  1566  0    2 Mar13 ?        00:00:05 /usr/bin/kwalletd5 --pam-login 15 19
+flaviov+  1566     1  1658  0    2 Mar13 ?        00:00:03 /usr/bin/kwalletd5 --pam-login 15 19
+flaviov+  1567  1536  1567  0    1 Mar13 ?        00:00:00 /bin/sh /usr/bin/startkde
+flaviov+  1615  1567  1615  0    1 Mar13 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch /usr/bin/startkde
+flaviov+  1618     1  1618  0    1 Mar13 ?        00:00:00 /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch /usr/bin/startkde
+flaviov+  1619     1  1619  0    1 Mar13 ?        00:00:04 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 15 --session
+flaviov+  1660     1  1660  0    4 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+flaviov+  1660     1  1661  0    4 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+flaviov+  1660     1  1662  0    4 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+flaviov+  1660     1  1664  0    4 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+flaviov+  1665  1660  1665  0    1 Mar13 ?        00:00:02 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+flaviov+  1667     1  1667  0    3 Mar13 ?        00:00:12 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+flaviov+  1667     1  1670  0    3 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+flaviov+  1667     1  1671  0    3 Mar13 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+flaviov+  1676     1  1676  0    1 Mar13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit --kded +kcminit_startup
+flaviov+  1677     1  1677  0    1 Mar13 ?        00:00:00 kdeinit5: Running...
+flaviov+  1678  1677  1678  0    2 Mar13 ?        00:00:04 klauncher [kdeinit5] --fd=9
+flaviov+  1678  1677  1679  0    2 Mar13 ?        00:00:02 klauncher [kdeinit5] --fd=9
+flaviov+  1680  1677  1680  0    7 Mar13 ?        00:00:17 kded5 [kdeinit5]
+flaviov+  1680  1677  1683  0    7 Mar13 ?        00:00:03 kded5 [kdeinit5]
+flaviov+  1680  1677  1686  0    7 Mar13 ?        00:00:00 kded5 [kdeinit5]
+flaviov+  1680  1677  1687  0    7 Mar13 ?        00:00:00 kded5 [kdeinit5]
+flaviov+  1680  1677  1712  0    7 Mar13 ?        00:00:00 kded5 [kdeinit5]
+flaviov+  1680  1677  1713  0    7 Mar13 ?        00:00:00 kded5 [kdeinit5]
+flaviov+  1680  1677  1762  0    7 Mar13 ?        00:00:10 kded5 [kdeinit5]
+flaviov+  1688     1  1688  0    2 Mar13 ?        00:00:04 /usr/bin/kaccess
+flaviov+  1688     1  1689  0    2 Mar13 ?        00:00:03 /usr/bin/kaccess
+flaviov+  1698     1  1698  0    2 Mar13 ?        00:00:04 /usr/bin/kglobalaccel5
+flaviov+  1698     1  1699  0    2 Mar13 ?        00:00:03 /usr/bin/kglobalaccel5
+flaviov+  1700  1567  1700  0    1 Mar13 ?        00:00:00 kwrapper5 /usr/bin/ksmserver
+flaviov+  1701  1677  1701  0    2 Mar13 ?        00:00:07 /usr/bin/ksmserver
+flaviov+  1701  1677  1705  0    2 Mar13 ?        00:00:02 /usr/bin/ksmserver
+flaviov+  1707     1  1707  0    6 Mar13 ?        00:00:05 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1707     1  1708  0    6 Mar13 ?        00:00:03 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1707     1  1709  0    6 Mar13 ?        00:00:00 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1707     1  1710  0    6 Mar13 ?        00:00:00 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1707     1  1711  0    6 Mar13 ?        00:00:00 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1707     1  2199  0    6 Mar13 ?        00:00:09 /usr/bin/kactivitymanagerd start-daemon
+flaviov+  1715     1  1715  0    4 Mar13 ?        00:00:02 /usr/lib/telepathy/mission-control-5
+flaviov+  1715     1  1724  0    4 Mar13 ?        00:00:00 /usr/lib/telepathy/mission-control-5
+flaviov+  1715     1  1725  0    4 Mar13 ?        00:00:00 /usr/lib/telepathy/mission-control-5
+flaviov+  1715     1  1726  0    4 Mar13 ?        00:00:00 /usr/lib/telepathy/mission-control-5
+flaviov+  1717     1  1717  0    2 Mar13 ?        00:00:06 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+flaviov+  1717     1  1718  0    2 Mar13 ?        00:00:03 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+flaviov+  1719  1701  1719  0    4 Mar13 ?        00:15:07 kwin_x11
+flaviov+  1719  1701  1739  0    4 Mar13 ?        00:02:11 kwin_x11
+flaviov+  1719  1701  1748  0    4 Mar13 ?        00:00:00 kwin_x11
+flaviov+  1719  1701  1760  0    4 Mar13 ?        00:00:00 kwin_x11
+flaviov+  1722  1677  1722  0   11 Mar13 ?        00:00:21 /usr/bin/krunner
+flaviov+  1722  1677  1723  0   11 Mar13 ?        00:00:08 /usr/bin/krunner
+flaviov+  1722  1677  1741  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3498  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3499  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3500  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3501  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3502  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3503  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3504  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1722  1677  3505  0   11 Mar13 ?        00:00:00 /usr/bin/krunner
+flaviov+  1730  1677  1730  0    9 Mar13 ?        00:12:17 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1737  0    9 Mar13 ?        00:01:50 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1750  0    9 Mar13 ?        00:00:00 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1761  0    9 Mar13 ?        00:00:00 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1768  0    9 Mar13 ?        00:00:01 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1776  0    9 Mar13 ?        00:00:00 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1836  0    9 Mar13 ?        00:00:00 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  1886  0    9 Mar13 ?        00:00:10 /usr/bin/plasmashell --shut-up
+flaviov+  1730  1677  2048  0    9 Mar13 ?        00:00:00 /usr/bin/plasmashell --shut-up
+flaviov+  1738  1677  1738  0    4 Mar13 ?        00:00:04 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+flaviov+  1738  1677  1740  0    4 Mar13 ?        00:00:02 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+flaviov+  1738  1677  1742  0    4 Mar13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+flaviov+  1738  1677  1743  0    4 Mar13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+flaviov+  1744  1677  1744  0    2 Mar13 ?        00:00:04 /usr/bin/xembedsniproxy
+flaviov+  1744  1677  1747  0    2 Mar13 ?        00:00:02 /usr/bin/xembedsniproxy
+flaviov+  1765     1  1765  0    4 Mar13 ?        00:00:16 /usr/bin/pulseaudio --start --log-target=syslog
+flaviov+  1765     1  1797  0    4 Mar13 ?        00:00:11 /usr/bin/pulseaudio --start --log-target=syslog
+flaviov+  1765     1  1798  0    4 Mar13 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+flaviov+  1765     1 32645  0    4 12:40 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1766     1  1766  0    3 Mar13 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+rtkit     1766     1  1774  0    3 Mar13 ?        00:00:01 /usr/lib/rtkit/rtkit-daemon
+rtkit     1766     1  1775  0    3 Mar13 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+flaviov+  1769     1  1769  0    3 Mar13 ?        00:07:50 /usr/bin/yakuake
+flaviov+  1769     1  1823  0    3 Mar13 ?        00:00:00 /usr/bin/yakuake
+flaviov+  1769     1  2163  0    3 Mar13 ?        00:00:00 /usr/bin/yakuake
+flaviov+  1771  1677  1771  0    6 Mar13 ?        00:00:36 /usr/bin/korgac
+flaviov+  1771  1677  1784  0    6 Mar13 ?        00:00:03 /usr/bin/korgac
+flaviov+  1771  1677  1791  0    6 Mar13 ?        00:00:00 /usr/bin/korgac
+flaviov+  1771  1677  1792  0    6 Mar13 ?        00:00:00 /usr/bin/korgac
+flaviov+  1771  1677  1931  0    6 Mar13 ?        00:00:00 /usr/bin/korgac
+flaviov+  1771  1677  6734  0    6 Mar14 ?        00:00:00 /usr/bin/korgac
+flaviov+  1777     1  1777  0   62 Mar13 ?        00:00:16 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1873  0   62 Mar13 ?        00:00:03 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1874  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1963  0   62 Mar13 ?        00:00:17 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1964  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1965  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  1966  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2035  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2036  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2037  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2038  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2039  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2040  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2041  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2042  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2043  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2044  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2045  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2046  0   62 Mar13 ?        00:00:27 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2079  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2081  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2091  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2092  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2097  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2098  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2099  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2100  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2101  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2102  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2122  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2123  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2124  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2125  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2126  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2127  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2128  0   62 Mar13 ?        00:01:08 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2129  0   62 Mar13 ?        00:00:25 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2130  0   62 Mar13 ?        00:00:27 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2131  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2132  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2133  0   62 Mar13 ?        00:01:14 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2134  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2135  0   62 Mar13 ?        00:00:03 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2136  0   62 Mar13 ?        00:00:24 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2137  0   62 Mar13 ?        00:00:04 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2138  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2139  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2140  0   62 Mar13 ?        00:00:07 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2141  0   62 Mar13 ?        00:00:01 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2142  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2143  0   62 Mar13 ?        00:00:17 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2144  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2146  0   62 Mar13 ?        00:00:28 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2168  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2178  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  2179  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3245  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3246  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3247  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3248  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3249  0   62 Mar13 ?        00:00:00 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1777     1  3250  0   62 Mar13 ?        00:05:31 /home/flaviovdf/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+flaviov+  1786     1  1786  0    1 Mar13 ?        00:00:00 /usr/lib/bluetooth/obexd
+root      1787     1  1787  0    1 Mar13 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+flaviov+  1790     1  1790  0    2 Mar13 ?        00:00:08 /usr/bin/akonadi_control
+flaviov+  1790     1  1793  0    2 Mar13 ?        00:00:03 /usr/bin/akonadi_control
+flaviov+  1794  1790  1794  0   52 Mar13 ?        00:00:01 akonadiserver
+flaviov+  1794  1790  1879  0   52 Mar13 ?        00:00:01 akonadiserver
+flaviov+  1794  1790  1880  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1881  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1882  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1883  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1884  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1891  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1900  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1902  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1907  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1914  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1924  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1926  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1928  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1929  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1930  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1933  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1935  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1937  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1941  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1952  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1955  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1962  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1968  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1972  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1973  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1974  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1978  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1980  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1981  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1984  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1985  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1987  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1992  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1993  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1994  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1995  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1997  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  1999  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2005  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2007  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2025  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2027  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2029  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2053  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2057  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2060  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2061  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2068  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  2075  0   52 Mar13 ?        00:00:00 akonadiserver
+flaviov+  1794  1790  6735  0   52 Mar14 ?        00:00:00 akonadiserver
+flaviov+  1801  1794  1801  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1811  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1812  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1813  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1814  0   34 Mar13 ?        00:00:10 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1815  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1816  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1817  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1818  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1819  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1820  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1821  0   34 Mar13 ?        00:00:09 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1822  0   34 Mar13 ?        00:00:06 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1838  0   34 Mar13 ?        00:00:05 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1839  0   34 Mar13 ?        00:00:12 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1840  0   34 Mar13 ?        00:00:01 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1841  0   34 Mar13 ?        00:00:08 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1842  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1843  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1844  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1845  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1846  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1847  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1848  0   34 Mar13 ?        00:00:01 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1849  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1853  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1867  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1868  0   34 Mar13 ?        00:00:01 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1872  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1885  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1932  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1943  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  1946  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1801  1794  2177  0   34 Mar13 ?        00:00:00 /usr/sbin/mysqld --defaults-file=/home/flaviovdf/.local/share/akonadi/mysql.conf --datadir=/home/flaviovdf/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-flaviovdf.cBfJkT/mysql.socket
+flaviov+  1825     1  1825  0    1 Mar13 ?        00:00:00 kdeinit4: kdeinit4 Running...
+flaviov+  1829  1825  1829  0    1 Mar13 ?        00:00:00 kdeinit4: klauncher [kdeinit] --fd=8
+flaviov+  1831     1  1831  0    1 Mar13 ?        00:00:01 kdeinit4: kded4 [kdeinit]
+flaviov+  1855  1769  1855  0    1 Mar13 pts/1    00:00:01 /bin/bash
+flaviov+  1869     1  1869  0    2 Mar13 ?        00:00:02 /usr/bin/knotify4
+flaviov+  1869     1  1871  0    2 Mar13 ?        00:00:00 /usr/bin/knotify4
+flaviov+  1887  1790  1887  0    4 Mar13 ?        00:00:04 /usr/bin/akonadi_akonotes_resource --identifier akonadi_akonotes_resource_0
+flaviov+  1887  1790  1889  0    4 Mar13 ?        00:00:03 /usr/bin/akonadi_akonotes_resource --identifier akonadi_akonotes_resource_0
+flaviov+  1887  1790  1890  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_akonotes_resource --identifier akonadi_akonotes_resource_0
+flaviov+  1887  1790  1927  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_akonotes_resource --identifier akonadi_akonotes_resource_0
+flaviov+  1888  1790  1888  0    7 Mar13 ?        00:00:05 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  1956  0    7 Mar13 ?        00:00:03 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  1971  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  1990  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  2024  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  2026  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1888  1790  2028  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_archivemail_agent --identifier akonadi_archivemail_agent
+flaviov+  1892  1790  1892  0    1 Mar13 ?        00:00:01 /usr/bin/akonadi_baloo_indexer --identifier akonadi_baloo_indexer
+flaviov+  1894  1790  1894  0    5 Mar13 ?        00:00:04 /usr/bin/akonadi_birthdays_resource --identifier akonadi_birthdays_resource
+flaviov+  1894  1790  1898  0    5 Mar13 ?        00:00:03 /usr/bin/akonadi_birthdays_resource --identifier akonadi_birthdays_resource
+flaviov+  1894  1790  1899  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_birthdays_resource --identifier akonadi_birthdays_resource
+flaviov+  1894  1790  1934  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_birthdays_resource --identifier akonadi_birthdays_resource
+flaviov+  1894  1790  1936  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_birthdays_resource --identifier akonadi_birthdays_resource
+flaviov+  1895  1790  1895  0    4 Mar13 ?        00:00:04 /usr/bin/akonadi_contacts_resource --identifier akonadi_contacts_resource_0
+flaviov+  1895  1790  1897  0    4 Mar13 ?        00:00:03 /usr/bin/akonadi_contacts_resource --identifier akonadi_contacts_resource_0
+flaviov+  1895  1790  1901  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_contacts_resource --identifier akonadi_contacts_resource_0
+flaviov+  1895  1790  1977  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_contacts_resource --identifier akonadi_contacts_resource_0
+flaviov+  1896  1790  1896  0    5 Mar13 ?        00:00:06 /usr/bin/akonadi_followupreminder_agent --identifier akonadi_followupreminder_agent
+flaviov+  1896  1790  1904  0    5 Mar13 ?        00:00:03 /usr/bin/akonadi_followupreminder_agent --identifier akonadi_followupreminder_agent
+flaviov+  1896  1790  1906  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_followupreminder_agent --identifier akonadi_followupreminder_agent
+flaviov+  1896  1790  1909  0    5 Mar13 ?        00:00:13 /usr/bin/akonadi_followupreminder_agent --identifier akonadi_followupreminder_agent
+flaviov+  1896  1790  1940  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_followupreminder_agent --identifier akonadi_followupreminder_agent
+flaviov+  1903  1790  1903  0    5 Mar13 ?        00:00:06 /usr/bin/akonadi_googlecalendar_resource --identifier akonadi_googlecalendar_resource_2
+flaviov+  1903  1790  1957  0    5 Mar13 ?        00:00:03 /usr/bin/akonadi_googlecalendar_resource --identifier akonadi_googlecalendar_resource_2
+flaviov+  1903  1790  1961  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_googlecalendar_resource --identifier akonadi_googlecalendar_resource_2
+flaviov+  1903  1790  1991  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_googlecalendar_resource --identifier akonadi_googlecalendar_resource_2
+flaviov+  1903  1790  2009  0    5 Mar13 ?        00:00:13 /usr/bin/akonadi_googlecalendar_resource --identifier akonadi_googlecalendar_resource_2
+flaviov+  1905  1790  1905  0    5 Mar13 ?        00:00:06 /usr/bin/akonadi_ical_resource --identifier akonadi_ical_resource_0
+flaviov+  1905  1790  1945  0    5 Mar13 ?        00:00:03 /usr/bin/akonadi_ical_resource --identifier akonadi_ical_resource_0
+flaviov+  1905  1790  1951  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_ical_resource --identifier akonadi_ical_resource_0
+flaviov+  1905  1790  1954  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_ical_resource --identifier akonadi_ical_resource_0
+flaviov+  1905  1790  2000  0    5 Mar13 ?        00:00:10 /usr/bin/akonadi_ical_resource --identifier akonadi_ical_resource_0
+flaviov+  1908  1790  1908  0    4 Mar13 ?        00:00:04 /usr/bin/akonadi_maildir_resource --identifier akonadi_maildir_resource_0
+flaviov+  1908  1790  1912  0    4 Mar13 ?        00:00:03 /usr/bin/akonadi_maildir_resource --identifier akonadi_maildir_resource_0
+flaviov+  1908  1790  1923  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_maildir_resource --identifier akonadi_maildir_resource_0
+flaviov+  1908  1790  1925  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_maildir_resource --identifier akonadi_maildir_resource_0
+flaviov+  1913  1790  1913  0    7 Mar13 ?        00:00:06 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  1921  0    7 Mar13 ?        00:00:03 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  1988  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  1998  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  2052  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  2059  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1913  1790  2062  0    7 Mar13 ?        00:00:13 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+flaviov+  1915  1790  1915  0    8 Mar13 ?        00:00:05 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  1958  0    8 Mar13 ?        00:00:03 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  1975  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  1989  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  2056  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  2058  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  2067  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1915  1790  2074  0    8 Mar13 ?        00:00:00 /usr/bin/akonadi_mailfilter_agent --identifier akonadi_mailfilter_agent
+flaviov+  1916  1790  1916  0    4 Mar13 ?        00:00:04 /usr/bin/akonadi_migration_agent --identifier akonadi_migration_agent
+flaviov+  1916  1790  1920  0    4 Mar13 ?        00:00:03 /usr/bin/akonadi_migration_agent --identifier akonadi_migration_agent
+flaviov+  1916  1790  1969  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_migration_agent --identifier akonadi_migration_agent
+flaviov+  1916  1790  1982  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_migration_agent --identifier akonadi_migration_agent
+flaviov+  1917  1790  1917  0    4 Mar13 ?        00:00:04 /usr/bin/akonadi_newmailnotifier_agent --identifier akonadi_newmailnotifier_agent
+flaviov+  1917  1790  1922  0    4 Mar13 ?        00:00:03 /usr/bin/akonadi_newmailnotifier_agent --identifier akonadi_newmailnotifier_agent
+flaviov+  1917  1790  1967  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_newmailnotifier_agent --identifier akonadi_newmailnotifier_agent
+flaviov+  1917  1790  1983  0    4 Mar13 ?        00:00:00 /usr/bin/akonadi_newmailnotifier_agent --identifier akonadi_newmailnotifier_agent
+flaviov+  1918  1790  1918  0    7 Mar13 ?        00:00:06 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  1959  0    7 Mar13 ?        00:00:03 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  1970  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  1986  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  2004  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  2006  0    7 Mar13 ?        00:00:00 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1918  1790  2008  0    7 Mar13 ?        00:00:14 /usr/bin/akonadi_notes_agent --identifier akonadi_notes_agent
+flaviov+  1919  1790  1919  0    5 Mar13 ?        00:00:06 /usr/bin/akonadi_sendlater_agent --identifier akonadi_sendlater_agent
+flaviov+  1919  1790  1960  0    5 Mar13 ?        00:00:03 /usr/bin/akonadi_sendlater_agent --identifier akonadi_sendlater_agent
+flaviov+  1919  1790  1976  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_sendlater_agent --identifier akonadi_sendlater_agent
+flaviov+  1919  1790  1996  0    5 Mar13 ?        00:00:00 /usr/bin/akonadi_sendlater_agent --identifier akonadi_sendlater_agent
+flaviov+  1919  1790  2018  0    5 Mar13 ?        00:00:13 /usr/bin/akonadi_sendlater_agent --identifier akonadi_sendlater_agent
+flaviov+  1953     1  1953  0    1 Mar13 ?        00:00:01 /usr/bin/kuiserver
+uuidd     2047     1  2047  0    1 Mar13 ?        00:00:00 /usr/sbin/uuidd --socket-activation
+flaviov+  2085     1  2085  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd
+flaviov+  2085     1  2086  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd
+flaviov+  2085     1  2087  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd
+flaviov+  2234     1  2234  0    1 Mar13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+flaviov+  2652     1  2652  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+flaviov+  2652     1  2655  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+flaviov+  2652     1  2656  0    3 Mar13 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+root      3531     2  3531  0    1 16:48 ?        00:00:00 [kworker/1:2]
+root      3544     1  3544  0    1 16:48 ?        00:00:00 /usr/sbin/cupsd -l
+lp        3547  3544  3547  0    1 16:48 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root      3810     2  3810  0    1 17:00 ?        00:00:00 [kworker/2:1]
+root      3825  1147  3825  0    1 17:04 ?        00:00:00 sshd: flaviovdf [priv]
+flaviov+  3875  3825  3875  0    1 17:04 ?        00:00:00 sshd: flaviovdf@pts/5
+flaviov+  3876  3875  3876  0    1 17:04 pts/5    00:00:00 -bash
+root      3906     2  3906  0    1 17:04 ?        00:00:00 [kworker/0:1]
+root      4084     2  4084  0    1 17:18 ?        00:00:00 [kworker/0:2]
+root      4100     2  4100  0    1 17:19 ?        00:00:00 [kworker/u8:3]
+root      4170     2  4170  0    1 17:22 ?        00:00:00 [kworker/2:0]
+root      5060     2  5060  0    1 17:26 ?        00:00:00 [kworker/1:0]
+root      5070     2  5070  0    1 17:26 ?        00:00:00 [kworker/u8:2]
+root      5105     2  5105  0    1 17:31 ?        00:00:00 [kworker/3:2]
+root      5164     2  5164  0    1 17:40 ?        00:00:00 [kworker/3:1]
+root      5190     2  5190  0    1 17:44 ?        00:00:00 [kworker/1:1]
+root      5206     2  5206  0    1 17:47 ?        00:00:00 [kworker/u8:0]
+flaviov+  5248  3876  5248  0    1 17:47 pts/5    00:00:00 ps -eLf
+flaviov+ 10074  1677 10074  0   36 Mar14 ?        00:03:12 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10075  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10080  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10081  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10082  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10083  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10084  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10085  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10086  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10087  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10088  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10089  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10090  0   36 Mar14 ?        00:00:02 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10091  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10092  0   36 Mar14 ?        00:00:02 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10093  0   36 Mar14 ?        00:00:20 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10094  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10095  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10096  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10097  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10098  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10099  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10103  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10108  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10111  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10175  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10176  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10177  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10178  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 10179  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677 18549  0   36 Mar14 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677  5174  0   36 17:42 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677  5197  0   36 17:45 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677  5200  0   36 17:46 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677  5245  0   36 17:47 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10074  1677  5246  0   36 17:47 ?        00:00:00 /usr/lib/slack/slack --disable-gpu
+flaviov+ 10076 10074 10076  0    1 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=zygote --no-sandbox
+flaviov+ 10106 10076 10106  0   13 Mar14 ?        00:00:08 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10107  0   13 Mar14 ?        00:00:01 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10113  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10114  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10116  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10119  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10120  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10123  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10129  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10148  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10149  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10150  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10106 10076 10151  0   13 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=25BAB932DC34CA3A2D2C97018EBB92D8 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=true --preload=/usr/lib/slack/resources/app.asar/src/static/index.js --hidden-page --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=97B6D902FD6FA5C820A9B740E022068B --mojo-application-channel-token=25BAB932DC34CA3A2D2C97018EBB92D8 --channel=10074.1.562610717 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10154  0   15 Mar14 ?        00:01:25 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10155  0   15 Mar14 ?        00:00:09 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10156  0   15 Mar14 ?        00:00:07 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10157  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10158  0   15 Mar14 ?        00:00:06 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10159  0   15 Mar14 ?        00:00:06 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10160  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10161  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10167  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10168  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10169  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10170  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10171  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076 10180  0   15 Mar14 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 10154 10076  5170  0   15 17:40 ?        00:00:00 /usr/lib/slack/slack --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=E7A116B05F4E099E00D3377AE2742E54 --lang=en-US --standard-schemes=slack-resources,slack-webapp-dev --node-integration=false --preload=/usr/lib/slack/resources/app.asar/src/static/ssb-interop --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --mojo-channel-token=BC1575584762E3886915A1CACB0DD14A --mojo-application-channel-token=E7A116B05F4E099E00D3377AE2742E54 --channel=10074.3.1208440543 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+flaviov+ 16602     1 16602  0    3 Mar14 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+flaviov+ 16602     1 16603  0    3 Mar14 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+flaviov+ 16602     1 16604  0    3 Mar14 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+flaviov+ 19323  1769 19323  0    1 Mar14 pts/2    00:00:00 /bin/bash
+flaviov+ 19994 19323 19994  0    3 Mar14 pts/2    00:00:17 /home/flaviovdf/anaconda3/bin/python /home/flaviovdf/anaconda3/bin/jupyter-notebook
+flaviov+ 19994 19323 20043  0    3 Mar14 pts/2    00:00:00 /home/flaviovdf/anaconda3/bin/python /home/flaviovdf/anaconda3/bin/jupyter-notebook
+flaviov+ 19994 19323 20044  0    3 Mar14 pts/2    00:00:00 /home/flaviovdf/anaconda3/bin/python /home/flaviovdf/anaconda3/bin/jupyter-notebook
+flaviov+ 20042 19994 20042  0   13 Mar14 ?        00:00:04 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20047  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20048  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20049  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20050  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20051  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20052  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20053  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20054  0   13 Mar14 ?        00:00:04 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20059  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20060  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20061  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 20042 19994 20062  0   13 Mar14 ?        00:00:00 /home/flaviovdf/anaconda3/bin/python -m ipykernel -f /run/user/1000/jupyter/kernel-8357537e-15ce-42f7-86a1-d3dbb38f99c1.json
+flaviov+ 30830  1677 30830  0    2 09:43 ?        00:00:01 /usr/bin/vprerex /home/flaviovdf/Dropbox/websci-2017/v5_todos/rq2 - revJussara.tex
+flaviov+ 30830  1677 30831  0    2 09:43 ?        00:00:00 /usr/bin/vprerex /home/flaviovdf/Dropbox/websci-2017/v5_todos/rq2 - revJussara.tex
+flaviov+ 30832 30830 30832  0    1 09:43 ?        00:00:00 [xterm] <defunct>
+flaviov+ 31328     1 31328  0    3 10:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.62 /org/gtk/gvfs/exec_spaw/0
+flaviov+ 31328     1 31329  0    3 10:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.62 /org/gtk/gvfs/exec_spaw/0
+flaviov+ 31328     1 31330  0    3 10:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.62 /org/gtk/gvfs/exec_spaw/0
+flaviov+ 31338     1 31338  0    3 10:21 ?        00:00:00 /usr/lib/dconf/dconf-service
+flaviov+ 31338     1 31341  0    3 10:21 ?        00:00:00 /usr/lib/dconf/dconf-service
+flaviov+ 31338     1 31342  0    3 10:21 ?        00:00:00 /usr/lib/dconf/dconf-service
+flaviov+ 31793  1769 31793  0    1 11:10 pts/3    00:00:00 /bin/bash
