@@ -37,24 +37,25 @@ Sala: ~~2009~~ 2008 (Icex)
 | 14   | 23       | Memória Virtual           |                             |
 | 15   | 25       | Espaço Livre e Malloc     |                             |
 | 16   | 30       | xv6 Boot                  |                             |
-| 17   | 07 Maio  | *Prova 2*                 | TP2 no Domingo pós prova    |
+| 17   | 02 Maio  | *Prova 2*                 | TP2 no Domingo pós prova    |
 
 | Aula | Data     |  Arquivos / E/S           | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 18   | 09 Maio  | E/S Dispositivos          | TP3                         |
-| 19   | 07       | Arquivos                  |                             |
-|      | 14       |                           | *Atividades Complementares* |
-| 20   | 16       | Implementando um VFS      |                             |
-| 21   | 21       | Logs/Journal              |                             |
-| 22   | 23       | Proteção+Segurança        |                             |
-| 23   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
-|      | 04 Jun   |                           | *Feriado*                   |
-| 24   | 06       | *Reposição*               | Alocação Seminários         |
+| 18   | 07 Maio  | E/S Dispositivos          | TP3                         |
+| 19   | 09       | Arquivos                  |                             |
+| 20   | 14       | Implementando um VFS      |                             |
+| 21   | 16       | Logs/Journal              |                             |
+| 22   | 21       | Proteção+Segurança        |                             |
+| 23   | 23       | *Prova 3*                 | TP3 no Domingo pós prova    |
+| 24   | 30       | *Reposição*               | Alocação Seminários         |
+
 
 | Aula | Data     |  Seminários               | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 25   | 11       | Virtualização             |                             |
-| 26   | 13       | Sistemas Distribuídos     |                             |
+| 25   | 04       | Virtualização             |                             |
+| 26   | 06       | Sistemas Distribuídos     |                             |
+|      | 11       |                           | *Sem Aula*                  |
+|      | 13       |                           | *Sem Aula*                  |
 | 27   | 18       | *Seminários*              |                             |
 | 28   | 20       | *Seminários*              |                             |
 | 29   | 25       | *Seminários*              |                             |
