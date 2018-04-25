@@ -36,17 +36,18 @@ Sala: ~~2009~~ 2008 (Icex)
 |      | 18       |                           | *Atividades Complementares* |
 | 14   | 23       | Memória Virtual           |                             |
 | 15   | 25       | Espaço Livre e Malloc     |                             |
-| 16   | 30       | xv6 Boot                  |                             |
-| 17   | 02 Maio  | *Prova 2*                 | TP2 no Domingo pós prova    |
+|      | 30       |                           | *Feriado*                   |
+| 16   | 02 Maio  | xv6 Boot                  |                             |
+| 17   | 07       | *Prova 2*                 | TP2 no Domingo pós prova    |
 
 | Aula | Data     |  Arquivos / E/S           | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 18   | 07 Maio  | E/S Dispositivos          | TP3                         |
-| 19   | 09       | Arquivos                  |                             |
-| 20   | 14       | Implementando um VFS      |                             |
-| 21   | 16       | Logs/Journal              |                             |
-| 22   | 21       | Proteção+Segurança        |                             |
-| 23   | 23       | *Prova 3*                 | TP3 no Domingo pós prova    |
+| 18   | 09 Maio  | E/S Dispositivos          | TP3                         |
+| 19   | 14       | Arquivos                  |                             |
+| 20   | 16       | Implementando um VFS      |                             |
+| 21   | 21       | Logs/Journal              |                             |
+| 22   | 23       | Proteção+Segurança        |                             |
+| 23   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
 | 24   | 30       | *Reposição*               | Alocação Seminários         |
 
 
