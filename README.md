@@ -1,7 +1,7 @@
 | [Slides] | [Informes] | [Calendário] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
 |----------|------------|--------------|------------|-------|----------|----------------|
 
-# DCC065 - Sistemas Operacionais: 2018.1
+# DCC605 - Sistemas Operacionais: 2018.1
 
 Professor: Flavio Figueiredo
 
