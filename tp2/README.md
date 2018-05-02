@@ -575,3 +575,18 @@ $ corretor
 ```
 
 Se os dois funcionarem seu TP está OK!
+
+# Rodando o GDB
+
+```
+$ make qemu-gdb
+```
+
+```
+$ gdb kernel
+```
+
+```
+(gdb) b exec
+(gdb) c
+```
