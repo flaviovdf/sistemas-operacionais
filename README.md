@@ -46,9 +46,9 @@ Sala: ~~2009~~ 2008 (Icex)
 | 19   | 14       | Arquivos                  |                             |
 | 20   | 16       | Implementando um VFS      |                             |
 | 21   | 21       | Logs/Journal              |                             |
-| 22   | 23       | Proteção+Segurança        |                             |
-| 23   | 28       | *Prova 3*                 | TP3 no Domingo pós prova    |
-| 24   | 30       | *Reposição*               | Alocação Seminários         |
+|      | 23       |                           | *Sem Aula*                  |
+| 22   | 28       | Proteção+Segurança        |                             |
+| 23   | 30       | *Prova 3*                 | TP3 no Domingo pós prova    |
 
 
 | Aula | Data     |  Seminários               | Informações                 |
