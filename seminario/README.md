@@ -2,9 +2,9 @@
 
 ## Datas, Entregas e Alunos
 
-1. Escolha do tema: Até 31 de Outubro
-1. Entrega do relatório: Até 28 de Novembro
-1. Apresentações: A definir (até o dia 02 de Novembro)
+1. Escolha do tema: Até 15 de Junho
+1. Entrega do relatório: Até 27 de Junho
+1. Apresentações: A definir
 
 ## Objetivos
 
@@ -22,10 +22,10 @@
 
 1. Cada seminário será realizado por um grupo de 2 alunos.
 
-1. O seminário será avaliado em 20 pontos pontos e é dividido em duas partes:
+1. O seminário será avaliado em 15 pontos pontos e é dividido em duas partes:
    * A entrega de um relatório escrito de no máximo 5 páginas incluindo a
-     capa e referências, se houver. (10 pontos.)
-   * Uma apresentação oral em sala de aula, não devendo passar de 12 minutos,
+     capa e referências, se houver. (5 pontos.)
+   * Uma apresentação oral em sala de aula, não devendo passar de XX minutos,
      seguidos de mais 3 minutos dedicados à discussão com o professor e os
      colegas. (10 pontos.)
 
@@ -66,6 +66,7 @@
   1. Linux NameSpaces e CGroups
      * Novas abordagens de proteção do Linux
      * https://www.youtube.com/watch?v=sK5i-N34im8
+  1. The Return of Software Vulnerabilities in the Brazilian Voting Machine
 
 **Sistemas de Arquivos**
 
