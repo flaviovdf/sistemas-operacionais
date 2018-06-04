@@ -46,21 +46,22 @@ Sala: ~~2009~~ 2008 (Icex)
 | 19   | 14       | Arquivos                  |                             |
 | 20   | 16       | Implementando um VFS      |                             |
 | 21   | 21       | Logs/Journal              |                             |
-|      | 23       |                           | *Sem Aula*                  |
-| 22   | 28       | Proteção+Segurança        |                             |
-| 23   | 30       | *Prova 3*                 | TP3 no Domingo pós prova    |
+|      | 23       |                           | *Sem Aula - Greve Cam.*     |
+|      | 28       |                           | *Sem Aula - Greve Cam.*     |
+|      | 30       |                           | *Sem Aula - Greve Cam.*     |
+| 22   | 04       | Proteção+Segurança        |                             |
+| 23   | 06       | *Prova 3*                 | TP3 no Domingo pós prova    |
 
 
 | Aula | Data     |  Seminários               | Informações                 |
 |------|----------|---------------------------|-----------------------------|
-| 25   | 04       | Virtualização             |                             |
-| 26   | 06       | Sistemas Distribuídos     |                             |
-|      | 11       |                           | *Sem Aula*                  |
-|      | 13       |                           | *Sem Aula*                  |
-| 27   | 18       | *Seminários*              |                             |
-| 28   | 20       | *Seminários*              |                             |
-| 29   | 25       | *Seminários*              |                             |
-| 30   | 27       | *Exame Especial*          |                             |
+|      | 11       |                           | *Sem Aula - Atmosphere*     |
+|      | 13       |                           | *Sem Aula - Atmosphere*     |
+| 25   | 18       | Virtualização             |                             |
+| 26   | 20       | Sistemas Distribuídos     |                             |
+| 27   | 25       | *Seminários*              |                             |
+| 28   | 27       | *Seminários*              |                             |
+| 30   | 04       | *Exame Especial*          |                             |
 
 ## Bibliografia
 
