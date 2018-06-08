@@ -1,5 +1,5 @@
 
-# DCC605 File System Checker (DCC-FSSHELL).
+# DCC605 File System Shell (DCC-FSSHELL).
 
 1. Pode ser feito em dupla
 1. Domingo Depois da Terceira Prova
