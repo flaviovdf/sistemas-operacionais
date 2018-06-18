@@ -60,8 +60,7 @@ Sala: ~~2009~~ 2008 (Icex)
 | 25   | 18       | Virtualização             |                             |
 | 26   | 20       | Sistemas Distribuídos     |                             |
 | 27   | 25       | *Seminários*              |                             |
-| 28   | 27       | *Seminários*              |                             |
-| 30   | 04       | *Exame Especial*          |                             |
+| 28   | 09       | **10h - 2009 - Especial** |                             |
 
 ## Bibliografia
 
