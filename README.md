@@ -5,7 +5,7 @@
 
 Professor: Flavio Figueiredo
 
-Aulas: Terças e Quintas 17:00-18:40
+Aulas: Segundas e Quartas 17:00-18:40
 
 Sala: ~~2009~~ 2008 (Icex)
 
