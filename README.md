@@ -46,7 +46,7 @@ Sala: ~~2009~~ 2008 (Icex)
 | 19   | 14       | Arquivos                  |                             |
 | 20   | 16       | Implementando um VFS      |                             |
 | 21   | 21       | Logs/Journal              |                             |
-|      | 23       |                           | *Sem Aula - Greve Cam.*     |
+papitow@msn.com|      | 23       |                           | *Sem Aula - Greve Cam.*     |
 |      | 28       |                           | *Sem Aula - Greve Cam.*     |
 |      | 30       |                           | *Sem Aula - Greve Cam.*     |
 | 22   | 04       | Proteção+Segurança        |                             |
@@ -60,7 +60,7 @@ Sala: ~~2009~~ 2008 (Icex)
 | 25   | 18       | Virtualização             |                             |
 | 26   | 20       | Sistemas Distribuídos     |                             |
 | 27   | 25       | *Seminários*              |                             |
-| 28   | 09       | **10h - 2009 - Especial** |                             |
+| 28   | 09       | **Especial. Sala 2008**   |                             |
 
 ## Bibliografia
 
