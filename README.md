@@ -46,7 +46,7 @@ Sala: ~~2009~~ 2008 (Icex)
 | 19   | 14       | Arquivos                  |                             |
 | 20   | 16       | Implementando um VFS      |                             |
 | 21   | 21       | Logs/Journal              |                             |
-papitow@msn.com|      | 23       |                           | *Sem Aula - Greve Cam.*     |
+|      | 23       |                           | *Sem Aula - Greve Cam.*     |
 |      | 28       |                           | *Sem Aula - Greve Cam.*     |
 |      | 30       |                           | *Sem Aula - Greve Cam.*     |
 | 22   | 04       | Proteção+Segurança        |                             |
