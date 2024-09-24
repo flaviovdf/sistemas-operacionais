@@ -39,15 +39,10 @@ Sala: Sala 208 do CAD3
 ### Caso de Estudo
 
   1. [xv6 - Código](https://github.com/mit-pdos/xv6-public)
-  1. [xv6 - a simple, Unix-like teaching operating system (livro)](https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev10.pdf) <br>
-     Russ Cox, Frank Kaashoek and Robert Morris <br>
-     Revision 9 -- ou mais recente se houver <br>
-      **Apenas em inglês. Aberto!**
+  1. [xv6 - a simple, Unix-like teaching operating system (livro)](https://pdos.csail.mit.edu/6.828/2022/xv6/book-riscv-rev3.pdf) <br>
   1. [Linux Kernel - Código](https://github.com/torvalds/linux)
-  1. [Linux Insides - gitbook](https://www.gitbook.com/book/0xax/linux-insides/details) <br>
+  1. [Linux Insides - gitbook](https://0xax.gitbooks.io/linux-insides/content/) <br>
      [@OxAX](https://twitter.com/0xAX) <br>
-     Versão mais nova <br>
-      **Inglês com uma tradução incompleta em Português. Aberto!**
 
 ## TPs
 
