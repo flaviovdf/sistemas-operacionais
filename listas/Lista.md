@@ -11,13 +11,18 @@
 1. [Silberschatz 2.1] Qual a finalidade das chamadas de sistema?
 
 1. [Silberschatz 2.6] Que chamadas de sistema têm de ser executadas por um
-   interpretador de comandos ou shell para iniciar um novo processo?
+   interpretador de comandos (`shell`) para iniciar um novo processo? Em
+   outras palavras, descreva as chamadas de sistema que são chamadas ao
+   executar um processo como ```$ echo oi```
 
-1. [Silberschatz 2.8 - Alterada] Qual a finalidade e vantagens da abordagem em
-   camadas? Qual seriam os impactos de um sistema com apenas 2 camadas? E
-   apenas 1?
+1. [Silberschatz 2.8 - Alterada] Considerando uma arquitetura em camadas.
+   Qual a finalidade da mesma? Quais são as vantagens? E as desvantagens?
+   
+1. [Follow - up da acima] Qual seriam os impactos de um sistema com
+   apenas 2 camadas? E apenas 1?
 
-1. [Follow - up da acima] Como garantimos que apenas o SO execute na camada 0?
+1. [Follow - up da acima] Como garantimos que apenas o SO execute na
+   camada 0?
 
 1. Qual a diferença entre Traps e Interrupções?
 
@@ -28,8 +33,8 @@
 
 1. Como é feita a troca de contexto entre 2 processos?
 
-1. Em um sistema sem múltiplos processadores (cores), existem vantagens em usar
-   threads?
+1. Considera uma máquina sem múltiplos processadores (cores). Aqui, existem
+   vantagens em usar threads?
 
 1. Em quais momentos um processo pode passar do estado RUNNING (Em Execução)
    para o estado WAITING (Em Espera)?
@@ -40,9 +45,9 @@
 1. Você consegue pensar em algum motivo pelo qual executamos um `fork` sem
    seguir um `exec`?
 
-1. [Silberschatz 4.8 - Alterada] Pensando no estado de um processo. O mesmo
-   cria uma thread. Quais informações são compartilhadas com a threads? Quais
-   não são?
+1. [Silberschatz 4.8 - Alterada] Pensando no estado de um processo, assum que
+   um processo qualquer cria uma thread. Quais informações são compartilhadas
+   com a threads? Quais não são?
 
 1. Qual a diferença entre paralelismo de dados e de processos?
 
@@ -55,15 +60,17 @@
    e o tempo de espera (IO) afetam a prioridade de um processo. Qual a
    importância de separar os 2 tempos?
 
-1. Explique as métricas de avaliação de algoritmos de escalonamento. É possível
-   maximizar todas elas de uma só vez?
+1. Explique as métricas de avaliação de algoritmos de escalonamento.
    * Throughput
    * Turnaround time (tempo de término)
    * Tempo de Espera
    * Tempo de Resposta
 
-1. [Silberschatz 6.16] Considere o conjunto de processos a seguir, com duração
-   de pico de CPU dada em milissegundos:
+1. Seguindo na questão anterior, seria possível maximizar todas as métricas
+   de uma só vez?
+
+1. [Silberschatz 6.16] Considere o conjunto de processos a seguir. Na tabela,
+   mostramos a duração de pico de CPU de cada processo em milissegundos:
 
    | Processo| Duração do Pico | Prioridade |
    | --------|-----------------|------------|
@@ -73,22 +80,19 @@
    | P4      | 4               | 2          |
    | P5      | 5               | 3          |
 
-   Assumimos que todos os processos chegaram em ordem (P1 até P5) no tempo 0.
+   Assuma que todos os processos chegaram em ordem (P1 até P5) no tempo 0.
    Desenhe gráficos de Gantt ilustrando a execução dos processos quando
    utilizamos: (a) FCFS; (b) SJF; (c) RR com quantum=2;
 
-   Para cada processo. Compute as métricas da questão anterior.
+1. Para cada processo. Compute as métricas da questão anterior.
+   * Throughput
+   * Turnaround time (tempo de término)
+   * Tempo de Espera
+   * Tempo de Resposta
+     
+1. Você foi contratado para desenvolver um algoritmo de escalonamento para um sistema operacional (SO) de uso específico, que será executado em máquinas multiprocessadas. Esse SO será utilizado para operar uma plataforma de busca similar ao Google. Os processos que ele gerenciará estão divididos em três grupos principais: um grupo será responsável por coletar páginas da web, outro será encarregado de servir essas páginas para os clientes via Web, e o último grupo será dedicado ao processamento e indexação das páginas.
 
-1. Você foi contratado para desenvolver um algoritmo de escalonamento de um SO
-   de uso específico. Tal SO vai executar em máquinas multi processadas. A
-   máquina vai ser utilizada para servir uma máquina de busca como o Google.
-   Isto é, uma parte dos processos vão coletar páginas da internet, outra parte
-   vai servir as páginas para clientes via Web, enquanto a última parte vai
-   cuidar de processar e indexar as páginas. Como pode ser visto, alguns
-   processos têm mais uso de I/O enquanto outros são mais CPU intensive. Como
-   você criaria filas de prioridades para estes processos? Quais algoritmos de
-   escalonamento você utilizaria dentro das filas? Você acha que é necessário
-   chavear processos entre filas?
+Como é possível observar, alguns desses processos apresentam uma maior demanda de I/O, enquanto outros são mais intensivos em uso de CPU. Diante desse cenário, como você estruturaria as filas de prioridade para esses diferentes tipos de processos? Quais algoritmos de escalonamento você utilizaria dentro dessas filas? Além disso, você considera necessário permitir que os processos possam migrar entre diferentes filas ao longo do tempo?
 
 ## Sincronização e Deadlocks
 
