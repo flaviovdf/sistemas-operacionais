@@ -1,3 +1,5 @@
-# DCC065 - Sistemas Operacionais: 2017.1
+# DCC065 - Sistemas Operacionais
 
 Professor: Flavio Figueiredo
+
+Alguns código de exemplos
