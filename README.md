@@ -11,56 +11,11 @@ Sala: ~~2009~~ 2008 (Icex)
 
 ## Informes
 
-* **INF00**: As aulas iniciam no dia 05/03 na Sala 2008.
+* **INF00**: As aulas iniciam no dia 26/09 na Sala 208 do CAD3.
 
 ## Calendário
 
-| Aula | Data     |  Processos                | Informações                 |
-|------|----------|---------------------------|-----------------------------|
-| 1    | 05 Mar   | Apresentação              |                             |
-| 2    | 07       | Interrupçes e Estruturas  |                             |
-| 3    | 12       | Processos e Threads       | Liberação TP1               |
-| 4    | 14       | Escalonamento             |                             |
-| 5    | 19       | Sincronização             |                             |
-| 6    | 21       | Sincronização             |                             |
-| 7    | 26       | Problemas Sincronização   |                             |
-| 8    | 28       | Deadlocks                 |                             |
-| 9    | 02 Abr   | *Prova 1*                 | TP1 no Domingo pós prova    |
-
-| Aula | Data     |  Memória                  | Informações                 |
-|------|----------|---------------------------|-----------------------------|
-| 10   | 04 Abr   | Compilação e Linkagem     | TP2                         |
-| 11   | 09       | Gerência de Memória       |                             |
-| 12   | 11       | Paginação                 |                             |
-| 13   | 16       | Memória Virtual           |                             |
-|      | 18       |                           | *Atividades Complementares* |
-| 14   | 23       | Memória Virtual           |                             |
-| 15   | 25       | Espaço Livre e Malloc     |                             |
-|      | 30       |                           | *Feriado*                   |
-| 16   | 02 Maio  | xv6 Boot                  |                             |
-| 17   | 07       | *Prova 2*                 | TP2 no Domingo pós prova    |
-
-| Aula | Data     |  Arquivos / E/S           | Informações                 |
-|------|----------|---------------------------|-----------------------------|
-| 18   | 09 Maio  | E/S Dispositivos          | TP3                         |
-| 19   | 14       | Arquivos                  |                             |
-| 20   | 16       | Implementando um VFS      |                             |
-| 21   | 21       | Logs/Journal              |                             |
-|      | 23       |                           | *Sem Aula - Greve Cam.*     |
-|      | 28       |                           | *Sem Aula - Greve Cam.*     |
-|      | 30       |                           | *Sem Aula - Greve Cam.*     |
-| 22   | 04       | Proteção+Segurança        |                             |
-| 23   | 06       | *Prova 3*                 | TP3 no Domingo pós prova    |
-
-
-| Aula | Data     |  Seminários               | Informações                 |
-|------|----------|---------------------------|-----------------------------|
-|      | 11       |                           | *Sem Aula - Atmosphere*     |
-|      | 13       |                           | *Sem Aula - Atmosphere*     |
-| 25   | 18       | Virtualização             |                             |
-| 26   | 20       | Sistemas Distribuídos     |                             |
-| 27   | 25       | *Seminários*              |                             |
-| 28   | 09       | **Especial. Sala 2008**   |                             |
+<iframe src="https://docs.google.com/spreadsheets/d/1IxfoyUWo6V_3YnRK0fM_sqFEDEA2gdskENqQQMn1Goo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Bibliografia
 
