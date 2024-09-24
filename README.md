@@ -7,7 +7,7 @@ Professor: Flavio Figueiredo
 
 Aulas: Segundas e Quartas 17:00-18:40
 
-Sala: ~~2009~~ 2008 (Icex)
+Sala: Sala 208 do CAD3
 
 ## Informes
 
@@ -15,7 +15,7 @@ Sala: ~~2009~~ 2008 (Icex)
 
 ## Calendário
 
-<iframe src="https://docs.google.com/spreadsheets/d/1IxfoyUWo6V_3YnRK0fM_sqFEDEA2gdskENqQQMn1Goo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+[No Google Drive](https://docs.google.com/spreadsheets/d/1IxfoyUWo6V_3YnRK0fM_sqFEDEA2gdskENqQQMn1Goo/edit?usp=sharing)
 
 ## Bibliografia
 
