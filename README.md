@@ -54,6 +54,6 @@ Sala: Sala 208 do CAD3
 [Calendário]: #calendário
 [Listas]: ./listas
 [TPs]: #tps
-[Slides]: https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
+[Slides]: https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs?resourcekey=0-L3H2DTlz1Vf9RsytCMNBgA&usp=drive_link
 [Exemplos]: ./exemplos
 [Bibliografia]: #bibliografia
