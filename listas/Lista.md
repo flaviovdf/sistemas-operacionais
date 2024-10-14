@@ -6,7 +6,7 @@
 
 # Lista de Exercícios
 
-## Conceitos Básicos
+## E1. Conceitos Básicos
 
 1. [Silberschatz 2.1] Qual a finalidade das chamadas de sistema?
 
@@ -26,7 +26,7 @@
 
 1. Qual a diferença entre Traps e Interrupções?
 
-## Processos e Threads
+## E2. Processos e Threads
 
 1. [Silberschatz 3.8] Qual a diferença entre escalonamento de curto prazo,
    médio prazo e longo prazo?
@@ -51,7 +51,7 @@
 
 1. Qual a diferença entre paralelismo de dados e de processos?
 
-## Escalonamento
+## E3. Escalonamento
 
 1. [Silberschatz 6.2] Qual a diferença entre escalonamento com interrupções e
    sem interrupções?
@@ -94,7 +94,7 @@
 
 Como é possível observar, alguns desses processos apresentam uma maior demanda de I/O, enquanto outros são mais intensivos em uso de CPU. Diante desse cenário, como você estruturaria as filas de prioridade para esses diferentes tipos de processos? Quais algoritmos de escalonamento você utilizaria dentro dessas filas? Além disso, você considera necessário permitir que os processos possam migrar entre diferentes filas ao longo do tempo?
 
-## Sincronização e Deadlocks
+## E4. Sincronização e Deadlocks
 
 1. Qual o menor programa que você consegue escrever que gera um deadlock?
    Pode utilizar pseudo código.
