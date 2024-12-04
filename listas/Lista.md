@@ -124,7 +124,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
    um garçom. Explique como implementar tal garçom. Quais são as vantagens e
    desvantagens desta solução?
 
-## Memória: Hardware
+## E2. Memória: Hardware
 
 1. [Silberschatz 8.1] Qual a diferença entre endereços lógicos e físicos?
 
@@ -153,7 +153,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
    1. Compartilhamento
 
 1. [Silberschatz 8.15] Explique por que sistemas operacionais móveis como iOS
-   e Android não suportam permuta?
+   e Android não suportam permuta (swapping)?
 
 1. [Siberschatz 8.20] Supondo um tamanho de página de 1KB (2^10, com 2^22
    bits para tradução). Quais são os números de deslocamentos de página para as
@@ -165,11 +165,10 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
    1. 200001
 
 1. [Siberschatz 8.24] Considera um sistema de computação com um endereço lógico
-   de 32 bits e tamanho de página de 4KB. O sistema de 512MB de memória física.
+   de 32 bits e tamanho de página de 4KB. O sistema tem 512MB de memória física.
    Quantas entradas haveria em cada um dos itens a seguir:
    1. Tabela de páginas de um único nível
    1. Tabela de páginas de dois níveis
-   1. Tabela hash
 
 1. [Siberschatz 8.25] Considera um sistema de paginação simples:
    1. Se uma referência para a memória gasta 50ns, quanto tempo leva uma
@@ -187,7 +186,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
       um tempo de acesso de 10ns para a memória real e 2ns para a TLB, qual a
       eficácia do sistema?
 
-## Memória: SO
+## E2. Memória: SO
 
 1. [Siberschatz 9.1 - Resumida] Quando ocorrem os erros/faltas de pagina?
    Quais são os passos do SO para tratar as mesmas?
