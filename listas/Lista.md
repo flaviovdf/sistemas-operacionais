@@ -253,7 +253,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
    c. Sucesso na TLB sem falta de página na tabela.
    d. Sucesso na TLB com falta de página na tabela.
 
-## Entrada e Saída
+## E3 - Entrada e Saída
 
 1. Existem cenários onde o POOLING é útil? Explique quais.
 
@@ -270,7 +270,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
 
 1. Existem algum momento que é melhor usar I/O com pooling?
 
-## Discos
+## E3 - Discos
 
 1. Geralmente o scheduling do disco é jogado com tarefa do SO. Você
    consegue explicar os motivos?
@@ -284,7 +284,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
 1. Explique o motivo pelo qual FCFS é o único algoritmo justo de
    disco.
 
-## Arquivos
+## E3 - Arquivos
 
 1. Dê exemplos de aplicaçes que fazem uso de acesso sequencial.
    E de acesso randômico?
@@ -299,7 +299,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
 1. Discuta e compara hard links e soft links em quesitos de
    vantagens e desvantagem.
 
-## Sistema de Arquivos
+## E3 - Sistemas de Arquivos
 
 1. [Tanenbaum 5.1 - Inspirada] Existem vantagens em identificar arquivos
    executáveis com um número mágico fixo? Quais as desvantagens?
@@ -345,7 +345,7 @@ Como é possível observar, alguns desses processos apresentam uma maior demanda
    menor. Existem vantagens e ter 2 tamanhos para um mesmo sistema
    de arquivos?
 
-## Proteção e Segurança
+## E3 - Proteção e Segurança
 
 São poucos problemas de proteção e segurança no livro, deem uma olhada
 neles.
