@@ -2,7 +2,6 @@
 # DCC605 File System Shell (DCC-FSSHELL).
 
 1. Pode ser feito em dupla
-1. Domingo Depois da Terceira Prova
 
 Neste trabalho você vai implementar um shell para o sistema ext2. Para
 realizar seu TP recomendo um bom entendimento do
